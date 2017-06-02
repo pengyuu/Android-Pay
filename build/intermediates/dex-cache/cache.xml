@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/blue/AndroidStudioProjects/Android-Pay/pay-library/build/intermediates/bundles/default/libs/libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0a97f76f6eedd828815dc1b774fef5047b73e81">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/8/libammsdk_229448432b0a091b8662a6655d587a8774e58774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/1a918b9190def464c8a4ae0daf36be5ab001e7d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb8ec4ba67891ad9c3b6ec3874fee7129909ab31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/5e4a21cb1c0072c102b0559757725f1b8df54d22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e35684ff8203bde808a0abdb4705950d1f6e27d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/2548d84e74301e146f1ae9ef1d4d4efb69474110/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2134d96f6d1aa3d2e8168e472ddd4b9d91531216/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/3008e83a818ccb37b41220d4d46056ff852ff1a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cb50c576069b9fe47f533ea7af9a4fdb8907a61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1e96d97d8a4711ac7a73d90fc7bc3235a3100d5">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_14dceef4bb78b75c0b9b60f83059fb64820b2278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/3008e83a818ccb37b41220d4d46056ff852ff1a7/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_5b6213e3ae32184a850c34a78afec8d60e91ddea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_4a350f36cc82122bd91a0ae0a586ee55ef043345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/4049644ec8ccd72a1648972c3bfd57d276095fc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_091d0e08e3491175d360d33c6502248493a3c420/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b45da68bdf71cf2a624777d2c9a4e05c61940960/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/AndroidStudioProjects/Android-Pay/pay-library/build/intermediates/bundles/default/libs/alipaySDK-20150818.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1bb595cca0214617bc3c1e5c4a6d385a4118c6d8">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/8/alipaySDK-20150818_4e3b767a0348997564d5e162f3e8406e2946f156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/.android/build-cache/b019922cc812df8c9ffae6b08aa06ea8668ea704/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/blue/AndroidStudioProjects/Android-Pay/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5868c08d59d8422a4b426a1e1a7b517c0d3d5534/classes.dex" />
+    </item>
+
+</items>
